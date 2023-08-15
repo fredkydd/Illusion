@@ -1,5 +1,3 @@
-const LandingPage = () => {
+export default function LandingPage() {
   return <>Landing Page (Unprotected)</>;
-};
-
-export default LandingPage;
+}
